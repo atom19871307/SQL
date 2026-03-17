@@ -1,4 +1,4 @@
---SQLQuery3-Scheme 12-21.sql
+--SQLQuery3-SemesterShame12-21.sql
 USE PV_522_Import;
 GO
 
